@@ -110,7 +110,7 @@
   { 
     "_id": "68D4C641-56B3-4807-836E-DEE7A59B5E0B",
     "quoteText": "Praise be to you, Our Lord, through our Sister, Mother Earth, who sustains and governs us, and who produces various fruits, with colored flowers and herbs.",
-    "quoteAuthor": "Pope Francis",./components/
+    "quoteAuthor": "Pope Francis",
     "color": "#0c2a7f",
     "imageUrl": "./components/12.jpg",
     "imgWidth": "1280",
@@ -211,7 +211,7 @@
     "quoteText": "Love is a fruit in season at all times and within reach of every hand.",
     "quoteAuthor": "Mother Teresa ",
     "color": "#442e26",
-    "imageUrl": "https://raw.githubusercontent.com/Mangosteen-bit/quote-machine/master/21.jpg",
+    "imageUrl": "./components/21.jpg",
     "imgWidth": "1600",
     "imgHeight": "1200"
   }
